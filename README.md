@@ -1,3 +1,1 @@
 # ProjectAlpha
-
-Project is coming soon....
